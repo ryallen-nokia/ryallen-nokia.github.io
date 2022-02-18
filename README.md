@@ -1,6 +1,6 @@
 # My Website
 
-https://ryanaiien.github.io/website/
+https://ryanaiien.github.io/
 
 Built with:
 - https://github.com/kamaln7/basic-static-website

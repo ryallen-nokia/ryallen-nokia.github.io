@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+}
+
+img#photo {
+    max-height: 150px; 
+    border-radius: 150px;
+}
+
+footer {
+    text-align: right;
+}

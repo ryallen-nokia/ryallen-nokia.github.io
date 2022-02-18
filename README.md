@@ -2,7 +2,7 @@
 
 https://ryanaiien.github.io/
 
-Resume JSON is stored at https://gist.github.com/ryanaiien.
+JSONResume source: https://gist.github.com/ryanaiien
 
 Built with:
 - https://github.com/kamaln7/basic-static-website

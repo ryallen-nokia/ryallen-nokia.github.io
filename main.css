@@ -1,5 +1,6 @@
-a {
+a, a:visited {
     text-decoration: none;
+    color: rgb(194, 65, 12);
 }
 
 header h1 {

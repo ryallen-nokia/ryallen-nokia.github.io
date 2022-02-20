@@ -2,7 +2,7 @@
 
 https://ryanaiien.github.io/
 
-JSONResume source: https://gist.github.com/ryanaiien
+JSON Resume: https://gist.github.com/ryanaiien?theme=autumn
 
 Built with:
 - https://github.com/kamaln7/basic-static-website

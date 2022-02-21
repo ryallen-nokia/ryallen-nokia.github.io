@@ -1,8 +1,6 @@
-# Resume Website
+# Static Site
 
-https://ryanaiien.github.io/
-
-JSON Resume: https://gist.github.com/ryanaiien?theme=autumn
+https://ryallen-nokia.github.io/
 
 Built with:
 - https://github.com/kamaln7/basic-static-website
